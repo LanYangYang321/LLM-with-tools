@@ -19,5 +19,5 @@ This project integrates OpenAI's GPT with a set of custom tools, including a res
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/gpt-python-interpreter.git
+   git clone https://github.com/LanYangYang321/llm-with-tool
    cd gpt-python-interpreter
