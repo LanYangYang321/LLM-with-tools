@@ -137,7 +137,7 @@ def gpt_with_requests(api_key, question, messages=None, recursion_depth=0, max_r
 if __name__ == "__main__":
     # 输入 OpenAI API 密钥和问题
     api_key = "sk-Boq4p7UH7lbzybrEQPmve7HJA01QAwgoFuCKjgQZbBPzCDqS"  # 替换为你的 OpenAI API 密钥
-    question = "模拟扔硬币1000次，告诉我结果"
+    question = "英伟达最新股价"
 
     # 调用函数获取回答
     answer = gpt_with_requests(api_key, question)
