@@ -1,6 +1,5 @@
-# GPT Tool Integration with Python Interpreter
-
-This project integrates OpenAI's GPT with a set of custom tools, including a restricted Python interpreter. The Python interpreter is sandboxed to ensure security and prevent unauthorized access to the system while running user-provided code. Additionally, the project supports a variety of tools such as making URL requests and performing internet searches.
+# GPT Tools
+让你的GPT上网。由于使用api请求gpt时，gpt无法使用插件进行上网查询，所以构建这个仓库。可以让你用API请求GPT的同时让GPT上网查询。
 
 ## Features
 
